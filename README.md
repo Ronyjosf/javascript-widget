@@ -32,8 +32,11 @@
     3. run http-server in terminal
     now http server is running, publishing it's ready address & port
     for i.e. http://lccalhost:8080
+
+    4. run youur app.js
+        node app.js
     
-    4. open browser, and navigatge to **http://localhost:8080/dynamic-widget**
+    5. open browser, and navigatge to **http://localhost:8080/dynamic-widget**
     
     widget should be displayed!
     
